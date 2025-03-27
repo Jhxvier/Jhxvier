@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Javier Leiba, I'm a **Junior Web Developer** passionate about creating clean, user-friendly, and efficient web solutions. I enjoy solving problems through code and continuously improving my skills.  
+- 👀 I’m interested in Web development, UI/UX design, and full-stack technologies.
+- 🌱 I’m currently learning advanced C#, JAVA and Python.
+- 💞️ I’m looking to collaborate on Web development projects
+- 📫 How to reach me - 📧 Email: leivahenry5@gmail.com  - 💼 LinkedIn: https://www.linkedin.com/in/henrry-leiba
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I'm not coding, I enjoy exploring new tech trends, playing video games, and optimizing my own coding projects for fun! 
