@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Javier Leiba, I'm a **Junior Web Developer** passionate about creating clean, user-friendly, and efficient web solutions. I enjoy solving problems through code and continuously improving my skills.  
+- 👋 Hi, I’m Javier Leiba, I'm a **Junior software Developer** passionate about creating clean, user-friendly, and efficient web solutions. I enjoy solving problems through code and continuously improving my skills.  
 - 👀 I’m interested in Web development, UI/UX design, and full-stack technologies.
 - 🌱 I’m currently learning advanced C#, JAVA and Python.
 - 💞️ I’m looking to collaborate on Web development projects
